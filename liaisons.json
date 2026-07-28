@@ -1,1 +1,166 @@
-{"meta":{"organization":"Association of Veterinary Technician Educators (AVTE)","managedBy":"TVD Associates","lastUpdated":"2026-06-04","version":"1.0","note":"Live - auto-deployed via GitHub."},"liaisons":[{"id":"aavsb","organization":"AAVSB","fullName":"American Association of Veterinary State Boards","type":"board_liaison","status":"active","avteRep":"Trish Gorham","tvdLead":"Todd","engagedIn":"VTNE Research & Bylaw Advocacy","keyContacts":"Amy Farmer, Octavio Jones, Channing Benson, Jim Penrod","lastMeeting":null,"nextMeeting":null,"currentFocus":"AAVSB bylaw changes proposed to remove named external org representation from VTNE Committee. Comms plan active.","lastUpdate":"VTNE/CVTEA crosswalk completed. AVMA Convention July 2026 (Anaheim) - full coalition reconvenes. AAVSB bylaw change proposal went public mid-May 2026.","boardNeeds":"None at this time.","lastReportDate":null,"boardActionRequired":false,"tags":["VTNE","credentialing","coalition"]},{"id":"avma-cvtea","organization":"AVMA: CVTEA Committee","fullName":"American Veterinary Medical Association - CVTEA","type":"committee_liaison","status":"active","avteRep":"Trish Gorham","tvdLead":"Todd","engagedIn":"VTNE/CVTEA Crosswalk Research","keyContacts":"Beth Thompson, Jim Weisman","lastMeeting":"2025-06-19","nextMeeting":"2025-11-06","currentFocus":"VTNE/CVTEA crosswalk review. Presenting findings at AVMA Convention July 2026.","lastUpdate":"CVTEA next regular committee meeting Nov 6-8. Progress from Oct 3 meeting being discussed.","boardNeeds":"None.","lastReportDate":"2025-10-20","boardActionRequired":false,"tags":["accreditation","CVTEA","crosswalk"]},{"id":"avma-cavt","organization":"AVMA: CAVT Committee","fullName":"American Veterinary Medical Association - CAVT","type":"committee_liaison","status":"active","avteRep":"Jennifer Serling","tvdLead":"Todd","engagedIn":"CrVT Promotion & NVTW","keyContacts":"Beth Thompson","lastMeeting":"2025-08-11","nextMeeting":"2026-03-05","currentFocus":"CrVT promotion campaign and articles for JAVTE.","lastUpdate":"CAVT had a PR campaign for National Vet Tech Week. Several CrVTs authored articles for JAVTE.","boardNeeds":"No help needed.","lastReportDate":"2025-10-20","boardActionRequired":false,"tags":["CrVT","credentialing"]},{"id":"aavmc","organization":"AAVMC","fullName":"Association of American Veterinary Medical Colleges","type":"board_liaison","status":"active","avteRep":"Jennifer Serling / Tara Groves","tvdLead":"Todd","engagedIn":"Conference and accreditation awareness","keyContacts":"Ted Mashima (Interim CEO)","lastMeeting":"2025-10-17","nextMeeting":"2025-10-31","currentFocus":"2026 AAVMC VetEd Conference (June 3-5, Madison WI). Monitoring COE changes.","lastUpdate":"Main focus of AAVMC BOD was COE changes. Monitoring for VT program impact.","boardNeeds":"None.","lastReportDate":"2025-10-20","boardActionRequired":false,"tags":["accreditation","conference"]},{"id":"navta","organization":"NAVTA","fullName":"National Association of Veterinary Technicians in America","type":"board_liaison","status":"monitoring","avteRep":"TBD","tvdLead":"Todd","engagedIn":"Relationship rebuilding","keyContacts":"Beckie Mossor, Phil Russo, Mariel Hendricks, Jamie Rauscher","lastMeeting":null,"nextMeeting":null,"currentFocus":"Org dynamics concerns being resolved before resuming normal interactions.","lastUpdate":"NAVTA joined VTNE coalition January 2026 - positive signal. Org-level concerns must be resolved first.","boardNeeds":"None - updates in executive session.","lastReportDate":null,"boardActionRequired":false,"tags":["coalition","monitoring"]},{"id":"aaha","organization":"AAHA","fullName":"American Animal Hospital Association","type":"board_liaison","status":"pending","avteRep":"TBD","tvdLead":"Todd","engagedIn":"N/A - awaiting opportunity","keyContacts":"TBD - CEO search underway","lastMeeting":null,"nextMeeting":null,"currentFocus":"Waiting for new CEO before formal engagement.","lastUpdate":"CEO search underway. No engagement until search concludes.","boardNeeds":"None.","lastReportDate":null,"boardActionRequired":false,"tags":["pending"]},{"id":"cvma","organization":"Canadian VMA","fullName":"Canadian Veterinary Medical Association","type":"external_partner","status":"forming","avteRep":"Todd","tvdLead":"Todd","engagedIn":"VTNE coalition - joining July 2026","keyContacts":"TBD","lastMeeting":null,"nextMeeting":"2026-07-01","currentFocus":"Joining VTNE coalition at AVMA Convention July 2026 in Anaheim.","lastUpdate":"CVMA joining multi-org VTNE coalition - positive international signal.","boardNeeds":"None.","lastReportDate":null,"boardActionRequired":false,"tags":["coalition","international"]}]}
+{
+  "meta": {
+    "organization": "Association of Veterinary Technician Educators (AVTE)",
+    "managedBy": "TVD Associates",
+    "lastUpdated": "2026-07-28",
+    "version": "1.0",
+    "note": "Live - auto-deployed via GitHub."
+  },
+  "liaisons": [
+    {
+      "id": "aavsb",
+      "organization": "AAVSB",
+      "fullName": "American Association of Veterinary State Boards",
+      "type": "board_liaison",
+      "status": "active",
+      "avteRep": "Trish Gorham",
+      "tvdLead": "Todd",
+      "engagedIn": "VTNE Research & Bylaw Advocacy",
+      "keyContacts": "Amy Farmer, Octavio Jones, Channing Benson, Jim Penrod",
+      "lastMeeting": null,
+      "nextMeeting": "2026-09-22",
+      "currentFocus": "AAVSB bylaw amendment and protecting dedicated stakeholder seats on the VTNE committee.",
+      "lastUpdate": "June 22 meeting centered on the proposed AAVSB bylaw amendment. AVTE's liaison raised the concern that the change lacks written policy guaranteeing dedicated stakeholder seats on the VTNE committee; board liaison Robin agreed to take it back to the AAVSB board and understood the desire for written policy before the vote. Awaiting AAVSB's statement.",
+      "boardNeeds": "None at this time.",
+      "lastReportDate": "2026-07-21",
+      "boardActionRequired": false,
+      "tags": [
+        "VTNE",
+        "credentialing",
+        "coalition"
+      ]
+    },
+    {
+      "id": "avma-cvtea",
+      "organization": "AVMA: CVTEA Committee",
+      "fullName": "American Veterinary Medical Association - CVTEA",
+      "type": "committee_liaison",
+      "status": "active",
+      "avteRep": "Trish Gorham",
+      "tvdLead": "Todd",
+      "engagedIn": "VTNE/CVTEA Crosswalk Research",
+      "keyContacts": "Beth Thompson, Jim Weisman",
+      "lastMeeting": "2025-06-19",
+      "nextMeeting": "2026-09-24",
+      "currentFocus": "VTNE/CVTEA crosswalk and defining entry-level competency.",
+      "lastUpdate": "6/14 follow-up on unfinished CVTEA business (standards and skills changes; public report out shortly) and 6/11 crosswalk work session. Strong discussion on Canada vs. US program scores, VTNE domains that do not align with skills (much of it wording to fix on both sides), and the need to define entry level. AVTE should develop a position on what counts as entry level.",
+      "boardNeeds": "None at this time.",
+      "lastReportDate": "2026-07-21",
+      "boardActionRequired": false,
+      "tags": [
+        "accreditation",
+        "CVTEA",
+        "crosswalk"
+      ]
+    },
+    {
+      "id": "avma-cavt",
+      "organization": "AVMA: CAVT Committee",
+      "fullName": "American Veterinary Medical Association - CAVT",
+      "type": "committee_liaison",
+      "status": "active",
+      "avteRep": "Jennifer Serling",
+      "tvdLead": "Todd",
+      "engagedIn": "CrVT Promotion & NVTW",
+      "keyContacts": "Beth Thompson",
+      "lastMeeting": "2025-08-11",
+      "nextMeeting": "2026-03-05",
+      "currentFocus": "CrVT promotion campaign and articles for JAVTE.",
+      "lastUpdate": "CAVT had a PR campaign for National Vet Tech Week. Several CrVTs authored articles for JAVTE.",
+      "boardNeeds": "No help needed.",
+      "lastReportDate": "2025-10-20",
+      "boardActionRequired": false,
+      "tags": [
+        "CrVT",
+        "credentialing"
+      ]
+    },
+    {
+      "id": "aavmc",
+      "organization": "AAVMC",
+      "fullName": "Association of American Veterinary Medical Colleges",
+      "type": "board_liaison",
+      "status": "active",
+      "avteRep": "Jennifer Serling / Tara Groves",
+      "tvdLead": "Todd",
+      "engagedIn": "Conference and accreditation awareness",
+      "keyContacts": "Ted Mashima (Interim CEO)",
+      "lastMeeting": "2025-10-17",
+      "nextMeeting": "2026-10-28",
+      "currentFocus": "Studying AAVMC's leadership program as a model for AVTE's.",
+      "lastUpdate": "July 10 meeting at the AVMA convention. No formal agenda, but AAVMC's leadership program was discussed and aligns with AVTE's proposed outline; AVTE has requested their outcome data to review. AAVMC went into closed session on the future of accreditation.",
+      "boardNeeds": "None at this time.",
+      "lastReportDate": "2026-07-21",
+      "boardActionRequired": false,
+      "tags": [
+        "accreditation",
+        "conference"
+      ]
+    },
+    {
+      "id": "navta",
+      "organization": "NAVTA",
+      "fullName": "National Association of Veterinary Technicians in America",
+      "type": "board_liaison",
+      "status": "monitoring",
+      "avteRep": "TBD",
+      "tvdLead": "Todd",
+      "engagedIn": "Relationship rebuilding",
+      "keyContacts": "Beckie Mossor, Phil Russo, Mariel Hendricks, Jamie Rauscher",
+      "lastMeeting": null,
+      "nextMeeting": null,
+      "currentFocus": "Org dynamics concerns being resolved before resuming normal interactions.",
+      "lastUpdate": "NAVTA joined VTNE coalition January 2026 - positive signal. Org-level concerns must be resolved first.",
+      "boardNeeds": "None - updates in executive session.",
+      "lastReportDate": null,
+      "boardActionRequired": false,
+      "tags": [
+        "coalition",
+        "monitoring"
+      ]
+    },
+    {
+      "id": "aaha",
+      "organization": "AAHA",
+      "fullName": "American Animal Hospital Association",
+      "type": "board_liaison",
+      "status": "pending",
+      "avteRep": "TBD",
+      "tvdLead": "Todd",
+      "engagedIn": "N/A - awaiting opportunity",
+      "keyContacts": "TBD - CEO search underway",
+      "lastMeeting": null,
+      "nextMeeting": null,
+      "currentFocus": "Waiting for new CEO before formal engagement.",
+      "lastUpdate": "CEO search underway. No engagement until search concludes.",
+      "boardNeeds": "None.",
+      "lastReportDate": null,
+      "boardActionRequired": false,
+      "tags": [
+        "pending"
+      ]
+    },
+    {
+      "id": "cvma",
+      "organization": "Canadian VMA",
+      "fullName": "Canadian Veterinary Medical Association",
+      "type": "external_partner",
+      "status": "forming",
+      "avteRep": "Todd",
+      "tvdLead": "Todd",
+      "engagedIn": "VTNE coalition - joining July 2026",
+      "keyContacts": "TBD",
+      "lastMeeting": null,
+      "nextMeeting": "2026-07-01",
+      "currentFocus": "Joining VTNE coalition at AVMA Convention July 2026 in Anaheim.",
+      "lastUpdate": "CVMA joining multi-org VTNE coalition - positive international signal.",
+      "boardNeeds": "None.",
+      "lastReportDate": null,
+      "boardActionRequired": false,
+      "tags": [
+        "coalition",
+        "international"
+      ]
+    }
+  ]
+}
